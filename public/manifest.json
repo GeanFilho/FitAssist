@@ -1,0 +1,21 @@
+{
+  "name": "FitAssist",
+  "short_name": "FitAssist",
+  "description": "Seu assistente fitness pessoal para uma vida mais saudavel",
+  "start_url": "/app",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "/icon-light-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
